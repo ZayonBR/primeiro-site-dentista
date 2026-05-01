@@ -51,7 +51,7 @@ export default function Footer() {
             <div>
               <p className="font-manrope text-xs text-slate-400 leading-none">Instagram</p>
               <p className="font-manrope font-semibold text-sm text-white group-hover:text-pink-400 transition-colors duration-300">
-                @drapatriciagarzon
+                @patricia_garzon_dentista
               </p>
             </div>
           </a>
