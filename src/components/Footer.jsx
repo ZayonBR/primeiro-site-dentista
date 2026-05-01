@@ -37,8 +37,9 @@ export default function Footer() {
           </div>
 
           {/* Instagram */}
+          {/* Instagram */}
           <a
-            href={INSTAGRAM_URL}
+            href="https://www.instagram.com/patricia_garzon_dentista/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 group w-fit"
@@ -51,7 +52,7 @@ export default function Footer() {
             <div>
               <p className="font-manrope text-xs text-slate-400 leading-none">Instagram</p>
               <p className="font-manrope font-semibold text-sm text-white group-hover:text-pink-400 transition-colors duration-300">
-                @patricia_garzon_dentista
+                @drapatriciagarzon
               </p>
             </div>
           </a>
